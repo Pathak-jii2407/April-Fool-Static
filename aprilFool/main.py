@@ -19,6 +19,7 @@ def main():
             st.rerun()
     else:
         st.error("🎉 April Fool Banaya, To Unko Gussa Aya! 😂")
+        st.write("Meri Charno Me Aapka Koti Koti Pranam.      ~ Ved")
         st.balloons()
 
 
